@@ -1,9 +1,12 @@
 # program to find fibonacci sequence of particula range:
 
-for series in range(0,50+1):
-    if series == 0:
-        print(0)
-    elif series ==1:
-        print(1)
+a=int(input("enter the number:"))
+def fibonacci(n):
+    if n == 0:
+        return 0
+    elif n ==1:
+        return 1
     else:
-        print(series= (series-1) + (series-2))
+        return fibonacci(n)=fibonacci(n-1)+fibonacci(n-2)
+for i in range(a):
+    print (fibonacci(i))
