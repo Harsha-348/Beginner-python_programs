@@ -4,7 +4,7 @@
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
-# Perform operations:
+# Perform algorithmic operations:
 add = num1 + num2
 subtract = num1 - num2
 multiply = num1 * num2
