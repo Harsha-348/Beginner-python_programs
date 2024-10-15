@@ -1,4 +1,4 @@
-# Normal calculator to add, subtract, multiply, and divide two numbers
+# calculator to add, subtract, multiply, and divide two numbers
 
 # Get user input:
 num1 = int(input("Enter first number: "))
