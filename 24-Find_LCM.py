@@ -7,5 +7,5 @@ num2 = int(input("Enter second number: "))
 lcm_value = lcm(num1, num2)
 print(f"LCM of {num1} and {num2} is {lcm_value}")
 
-'''Explanation: This program calculates the least common 
-multiple (LCM) using the formula `abs(a*b) // gcd(a, b)'''
+'''This program calculates the least common multiple 
+using the formula `abs(a*b) // gcd(a, b)'''
