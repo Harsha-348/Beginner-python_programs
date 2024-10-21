@@ -8,4 +8,7 @@ for char in string:
         count += 1
 print(f"Number of consonants in the string is {count}")
 
-'''This program counts the number of consonants in a string by iterating through each character.'''
+'''
+This program counts the number of consonants in a 
+string by iterating through each character.
+'''
